@@ -1,0 +1,19 @@
+@import './core/vars.scss';
+@import './fonts.scss';
+
+html, body, main {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'notosanslight';
+  color: $gray;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

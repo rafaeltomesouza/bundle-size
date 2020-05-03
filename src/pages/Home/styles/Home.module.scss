@@ -1,0 +1,29 @@
+@import '../../../styles/core/vars.scss';
+
+.home {
+  &__main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    header > h1 {
+      font-size: 36px;
+      font-family: 'notosansbold';
+    }
+
+    nav > h3 {
+      font-size: 20px;
+      font-weight: 100;
+      text-align: center;
+    }
+  }
+
+  &__logo {
+    background-image: url('../../../assets/images/processing.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 126px;
+    width: auto;
+  }
+
+}

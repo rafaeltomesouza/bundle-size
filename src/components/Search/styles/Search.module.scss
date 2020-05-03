@@ -1,0 +1,14 @@
+@import '../../../styles/core/vars.scss';
+
+.search {
+
+  input {
+    background: $white;
+    border: 1px solid $grayDark;
+    color: $gray;
+    font-size: 2.5em;
+    height: 71px;
+    padding-left: 0.4em;
+    width: 95.5%;
+  }
+}
