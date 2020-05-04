@@ -11,7 +11,7 @@ yarn or npm run install
 
 ## Requirements to visualize the portal
 
-Browser: Chrome (latest version) / Firefox (lastest version).
+Browser: Chrome (latest version) / Firefox (lastest version) or Edge. Not compatible with mobile devices yet, but you can have friendly visualization on tablets.
 
 
 ## Technologies used to developed the Bundle size - client
